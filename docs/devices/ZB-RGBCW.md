@@ -30,6 +30,7 @@ pageClass: device-page
 2. Now switch off and back on within 2 seconds.
 3. Repeat off/on four more times.
 4. Reset is done when the device is switched on the fifth time and the light starts pulsing.
+5. On my smart bulb it was on / off 5 times, the 6th on is when it flashes 3 times to pair
 <!-- Notes END: Do not edit below this line -->
 
 
